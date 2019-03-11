@@ -1,0 +1,12 @@
+cd desktop
+cd L0
+git add texto.txt
+git commit -m "Entrega L0"
+git push
+git config --global user.email "mnramos@uc.cl"
+git config --global user.name "MatyRamos"
+git commit -m "Entrega L0"
+git push
+git pull
+doskey
+doskey/History
